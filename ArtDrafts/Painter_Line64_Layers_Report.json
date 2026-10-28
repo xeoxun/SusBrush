@@ -1,0 +1,162 @@
+[
+  {
+    "Frame": "Carry_Down_Idle",
+    "FixedPixels": 1472,
+    "TintPixels": 666
+  },
+  {
+    "Frame": "Carry_Down_Run_01",
+    "FixedPixels": 1412,
+    "TintPixels": 613
+  },
+  {
+    "Frame": "Carry_Down_Run_02",
+    "FixedPixels": 1420,
+    "TintPixels": 657
+  },
+  {
+    "Frame": "Carry_Down_Run_03",
+    "FixedPixels": 1395,
+    "TintPixels": 630
+  },
+  {
+    "Frame": "Carry_Left_Idle",
+    "FixedPixels": 930,
+    "TintPixels": 1023
+  },
+  {
+    "Frame": "Carry_Left_Run_01",
+    "FixedPixels": 937,
+    "TintPixels": 1154
+  },
+  {
+    "Frame": "Carry_Left_Run_02",
+    "FixedPixels": 900,
+    "TintPixels": 975
+  },
+  {
+    "Frame": "Carry_Left_Run_03",
+    "FixedPixels": 927,
+    "TintPixels": 1116
+  },
+  {
+    "Frame": "Carry_Right_Idle",
+    "FixedPixels": 940,
+    "TintPixels": 1120
+  },
+  {
+    "Frame": "Carry_Right_Run_01",
+    "FixedPixels": 949,
+    "TintPixels": 1135
+  },
+  {
+    "Frame": "Carry_Right_Run_02",
+    "FixedPixels": 900,
+    "TintPixels": 1014
+  },
+  {
+    "Frame": "Carry_Right_Run_03",
+    "FixedPixels": 952,
+    "TintPixels": 1144
+  },
+  {
+    "Frame": "Carry_Up_Idle",
+    "FixedPixels": 822,
+    "TintPixels": 1317
+  },
+  {
+    "Frame": "Carry_Up_Run_01",
+    "FixedPixels": 837,
+    "TintPixels": 1239
+  },
+  {
+    "Frame": "Carry_Up_Run_02",
+    "FixedPixels": 832,
+    "TintPixels": 1261
+  },
+  {
+    "Frame": "Carry_Up_Run_03",
+    "FixedPixels": 826,
+    "TintPixels": 1237
+  },
+  {
+    "Frame": "Draw_Down_Idle",
+    "FixedPixels": 1334,
+    "TintPixels": 611
+  },
+  {
+    "Frame": "Draw_Down_Run_01",
+    "FixedPixels": 1292,
+    "TintPixels": 561
+  },
+  {
+    "Frame": "Draw_Down_Run_02",
+    "FixedPixels": 1302,
+    "TintPixels": 611
+  },
+  {
+    "Frame": "Draw_Down_Run_03",
+    "FixedPixels": 1291,
+    "TintPixels": 572
+  },
+  {
+    "Frame": "Draw_Left_Idle",
+    "FixedPixels": 850,
+    "TintPixels": 955
+  },
+  {
+    "Frame": "Draw_Left_Run_01",
+    "FixedPixels": 864,
+    "TintPixels": 1058
+  },
+  {
+    "Frame": "Draw_Left_Run_02",
+    "FixedPixels": 808,
+    "TintPixels": 903
+  },
+  {
+    "Frame": "Draw_Left_Run_03",
+    "FixedPixels": 841,
+    "TintPixels": 1037
+  },
+  {
+    "Frame": "Draw_Right_Idle",
+    "FixedPixels": 749,
+    "TintPixels": 882
+  },
+  {
+    "Frame": "Draw_Right_Run_01",
+    "FixedPixels": 776,
+    "TintPixels": 931
+  },
+  {
+    "Frame": "Draw_Right_Run_02",
+    "FixedPixels": 733,
+    "TintPixels": 822
+  },
+  {
+    "Frame": "Draw_Right_Run_03",
+    "FixedPixels": 774,
+    "TintPixels": 918
+  },
+  {
+    "Frame": "Draw_Up_Idle",
+    "FixedPixels": 701,
+    "TintPixels": 1082
+  },
+  {
+    "Frame": "Draw_Up_Run_01",
+    "FixedPixels": 702,
+    "TintPixels": 1020
+  },
+  {
+    "Frame": "Draw_Up_Run_02",
+    "FixedPixels": 704,
+    "TintPixels": 1035
+  },
+  {
+    "Frame": "Draw_Up_Run_03",
+    "FixedPixels": 698,
+    "TintPixels": 1016
+  }
+]

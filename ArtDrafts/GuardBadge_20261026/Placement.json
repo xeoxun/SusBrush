@@ -1,0 +1,258 @@
+[
+  {
+    "frame": "Carry_Down_Idle",
+    "positionPixels": [
+      12,
+      36
+    ],
+    "visiblePixels": 22
+  },
+  {
+    "frame": "Carry_Down_Run_01",
+    "positionPixels": [
+      13,
+      36
+    ],
+    "visiblePixels": 22
+  },
+  {
+    "frame": "Carry_Down_Run_02",
+    "positionPixels": [
+      11,
+      36
+    ],
+    "visiblePixels": 22
+  },
+  {
+    "frame": "Carry_Down_Run_03",
+    "positionPixels": [
+      10,
+      36
+    ],
+    "visiblePixels": 22
+  },
+  {
+    "frame": "Carry_Left_Idle",
+    "positionPixels": [
+      18,
+      31
+    ],
+    "visiblePixels": 13
+  },
+  {
+    "frame": "Carry_Left_Run_01",
+    "positionPixels": [
+      14,
+      31
+    ],
+    "visiblePixels": 8
+  },
+  {
+    "frame": "Carry_Left_Run_02",
+    "positionPixels": [
+      18,
+      31
+    ],
+    "visiblePixels": 13
+  },
+  {
+    "frame": "Carry_Left_Run_03",
+    "positionPixels": [
+      17,
+      31
+    ],
+    "visiblePixels": 13
+  },
+  {
+    "frame": "Carry_Right_Idle",
+    "positionPixels": [
+      42,
+      31
+    ],
+    "visiblePixels": 13
+  },
+  {
+    "frame": "Carry_Right_Run_01",
+    "positionPixels": [
+      45,
+      32
+    ],
+    "visiblePixels": 14
+  },
+  {
+    "frame": "Carry_Right_Run_02",
+    "positionPixels": [
+      42,
+      32
+    ],
+    "visiblePixels": 12
+  },
+  {
+    "frame": "Carry_Right_Run_03",
+    "positionPixels": [
+      45,
+      32
+    ],
+    "visiblePixels": 14
+  },
+  {
+    "frame": "Carry_Up_Idle",
+    "positionPixels": [
+      44,
+      35
+    ],
+    "visiblePixels": 22
+  },
+  {
+    "frame": "Carry_Up_Run_01",
+    "positionPixels": [
+      41,
+      35
+    ],
+    "visiblePixels": 22
+  },
+  {
+    "frame": "Carry_Up_Run_02",
+    "positionPixels": [
+      44,
+      35
+    ],
+    "visiblePixels": 22
+  },
+  {
+    "frame": "Carry_Up_Run_03",
+    "positionPixels": [
+      46,
+      36
+    ],
+    "visiblePixels": 22
+  },
+  {
+    "frame": "Draw_Down_Idle",
+    "positionPixels": [
+      17,
+      35
+    ],
+    "visiblePixels": 20
+  },
+  {
+    "frame": "Draw_Down_Run_01",
+    "positionPixels": [
+      17,
+      37
+    ],
+    "visiblePixels": 22
+  },
+  {
+    "frame": "Draw_Down_Run_02",
+    "positionPixels": [
+      17,
+      35
+    ],
+    "visiblePixels": 20
+  },
+  {
+    "frame": "Draw_Down_Run_03",
+    "positionPixels": [
+      13,
+      36
+    ],
+    "visiblePixels": 20
+  },
+  {
+    "frame": "Draw_Left_Idle",
+    "positionPixels": [
+      20,
+      38
+    ],
+    "visiblePixels": 22
+  },
+  {
+    "frame": "Draw_Left_Run_01",
+    "positionPixels": [
+      19,
+      36
+    ],
+    "visiblePixels": 19
+  },
+  {
+    "frame": "Draw_Left_Run_02",
+    "positionPixels": [
+      20,
+      36
+    ],
+    "visiblePixels": 17
+  },
+  {
+    "frame": "Draw_Left_Run_03",
+    "positionPixels": [
+      19,
+      36
+    ],
+    "visiblePixels": 19
+  },
+  {
+    "frame": "Draw_Right_Idle",
+    "positionPixels": [
+      41,
+      41
+    ],
+    "visiblePixels": 21
+  },
+  {
+    "frame": "Draw_Right_Run_01",
+    "positionPixels": [
+      41,
+      40
+    ],
+    "visiblePixels": 22
+  },
+  {
+    "frame": "Draw_Right_Run_02",
+    "positionPixels": [
+      39,
+      41
+    ],
+    "visiblePixels": 22
+  },
+  {
+    "frame": "Draw_Right_Run_03",
+    "positionPixels": [
+      40,
+      40
+    ],
+    "visiblePixels": 22
+  },
+  {
+    "frame": "Draw_Up_Idle",
+    "positionPixels": [
+      40,
+      38
+    ],
+    "visiblePixels": 22
+  },
+  {
+    "frame": "Draw_Up_Run_01",
+    "positionPixels": [
+      41,
+      39
+    ],
+    "visiblePixels": 22
+  },
+  {
+    "frame": "Draw_Up_Run_02",
+    "positionPixels": [
+      41,
+      39
+    ],
+    "visiblePixels": 22
+  },
+  {
+    "frame": "Draw_Up_Run_03",
+    "positionPixels": [
+      41,
+      39
+    ],
+    "visiblePixels": 22
+  }
+]

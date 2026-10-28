@@ -1,0 +1,418 @@
+[
+  {
+    "frame": "Carry_Down_Idle_Fixed",
+    "direction": "Down",
+    "hatPosition": [
+      15,
+      0
+    ],
+    "hatSize": [
+      38,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Carry_Down_Run_01_Fixed",
+    "direction": "Down",
+    "hatPosition": [
+      16,
+      1
+    ],
+    "hatSize": [
+      38,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Carry_Down_Run_02_Fixed",
+    "direction": "Down",
+    "hatPosition": [
+      14,
+      1
+    ],
+    "hatSize": [
+      38,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Carry_Down_Run_03_Fixed",
+    "direction": "Down",
+    "hatPosition": [
+      13,
+      1
+    ],
+    "hatSize": [
+      38,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Carry_Left_Idle_Fixed",
+    "direction": "Left",
+    "hatPosition": [
+      20,
+      0
+    ],
+    "hatSize": [
+      36,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Carry_Left_Run_01_Fixed",
+    "direction": "Left",
+    "hatPosition": [
+      16,
+      0
+    ],
+    "hatSize": [
+      36,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Carry_Left_Run_02_Fixed",
+    "direction": "Left",
+    "hatPosition": [
+      20,
+      0
+    ],
+    "hatSize": [
+      36,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Carry_Left_Run_03_Fixed",
+    "direction": "Left",
+    "hatPosition": [
+      18,
+      0
+    ],
+    "hatSize": [
+      36,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Carry_Right_Idle_Fixed",
+    "direction": "Right",
+    "hatPosition": [
+      10,
+      0
+    ],
+    "hatSize": [
+      36,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Carry_Right_Run_01_Fixed",
+    "direction": "Right",
+    "hatPosition": [
+      12,
+      1
+    ],
+    "hatSize": [
+      36,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Carry_Right_Run_02_Fixed",
+    "direction": "Right",
+    "hatPosition": [
+      9,
+      1
+    ],
+    "hatSize": [
+      36,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Carry_Right_Run_03_Fixed",
+    "direction": "Right",
+    "hatPosition": [
+      12,
+      1
+    ],
+    "hatSize": [
+      36,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Carry_Up_Idle_Fixed",
+    "direction": "Up",
+    "hatPosition": [
+      10,
+      0
+    ],
+    "hatSize": [
+      38,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Carry_Up_Run_01_Fixed",
+    "direction": "Up",
+    "hatPosition": [
+      8,
+      2
+    ],
+    "hatSize": [
+      38,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Carry_Up_Run_02_Fixed",
+    "direction": "Up",
+    "hatPosition": [
+      10,
+      0
+    ],
+    "hatSize": [
+      38,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Carry_Up_Run_03_Fixed",
+    "direction": "Up",
+    "hatPosition": [
+      12,
+      2
+    ],
+    "hatSize": [
+      38,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Draw_Down_Idle_Fixed",
+    "direction": "Down",
+    "hatPosition": [
+      16,
+      1
+    ],
+    "hatSize": [
+      38,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Draw_Down_Run_01_Fixed",
+    "direction": "Down",
+    "hatPosition": [
+      18,
+      3
+    ],
+    "hatSize": [
+      38,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Draw_Down_Run_02_Fixed",
+    "direction": "Down",
+    "hatPosition": [
+      16,
+      1
+    ],
+    "hatSize": [
+      38,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Draw_Down_Run_03_Fixed",
+    "direction": "Down",
+    "hatPosition": [
+      14,
+      2
+    ],
+    "hatSize": [
+      38,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Draw_Left_Idle_Fixed",
+    "direction": "Left",
+    "hatPosition": [
+      21,
+      2
+    ],
+    "hatSize": [
+      36,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Draw_Left_Run_01_Fixed",
+    "direction": "Left",
+    "hatPosition": [
+      19,
+      0
+    ],
+    "hatSize": [
+      36,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Draw_Left_Run_02_Fixed",
+    "direction": "Left",
+    "hatPosition": [
+      20,
+      0
+    ],
+    "hatSize": [
+      36,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Draw_Left_Run_03_Fixed",
+    "direction": "Left",
+    "hatPosition": [
+      18,
+      0
+    ],
+    "hatSize": [
+      36,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Draw_Right_Idle_Fixed",
+    "direction": "Right",
+    "hatPosition": [
+      11,
+      5
+    ],
+    "hatSize": [
+      36,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Draw_Right_Run_01_Fixed",
+    "direction": "Right",
+    "hatPosition": [
+      12,
+      4
+    ],
+    "hatSize": [
+      36,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Draw_Right_Run_02_Fixed",
+    "direction": "Right",
+    "hatPosition": [
+      10,
+      5
+    ],
+    "hatSize": [
+      36,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Draw_Right_Run_03_Fixed",
+    "direction": "Right",
+    "hatPosition": [
+      8,
+      4
+    ],
+    "hatSize": [
+      36,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Draw_Up_Idle_Fixed",
+    "direction": "Up",
+    "hatPosition": [
+      9,
+      4
+    ],
+    "hatSize": [
+      38,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Draw_Up_Run_01_Fixed",
+    "direction": "Up",
+    "hatPosition": [
+      9,
+      5
+    ],
+    "hatSize": [
+      38,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Draw_Up_Run_02_Fixed",
+    "direction": "Up",
+    "hatPosition": [
+      9,
+      5
+    ],
+    "hatSize": [
+      38,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  },
+  {
+    "frame": "Draw_Up_Run_03_Fixed",
+    "direction": "Up",
+    "hatPosition": [
+      9,
+      5
+    ],
+    "hatSize": [
+      38,
+      13
+    ],
+    "outsideHatPixelsUnchanged": true
+  }
+]

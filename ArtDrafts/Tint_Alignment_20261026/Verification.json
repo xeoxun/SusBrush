@@ -1,0 +1,294 @@
+{
+  "modifiedTintFrames": 32,
+  "fixedFilesUnchanged": 66,
+  "frames": [
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Carry\\Carry_Down_Idle_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 684,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Carry\\Carry_Down_Run_01_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 609,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Carry\\Carry_Down_Run_02_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 656,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Carry\\Carry_Down_Run_03_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 627,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Carry\\Carry_Left_Idle_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1066,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Carry\\Carry_Left_Run_01_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1199,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Carry\\Carry_Left_Run_02_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1066,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Carry\\Carry_Left_Run_03_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1170,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Carry\\Carry_Right_Idle_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1066,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Carry\\Carry_Right_Run_01_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1189,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Carry\\Carry_Right_Run_02_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1033,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Carry\\Carry_Right_Run_03_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1189,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Carry\\Carry_Up_Idle_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1369,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Carry\\Carry_Up_Run_01_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1300,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Carry\\Carry_Up_Run_02_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1370,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Carry\\Carry_Up_Run_03_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1281,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Draw\\Draw_Down_Idle_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 610,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Draw\\Draw_Down_Run_01_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 551,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Draw\\Draw_Down_Run_02_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 614,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Draw\\Draw_Down_Run_03_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 553,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Draw\\Draw_Left_Idle_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 956,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Draw\\Draw_Left_Run_01_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1064,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Draw\\Draw_Left_Run_02_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 903,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Draw\\Draw_Left_Run_03_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1035,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Draw\\Draw_Right_Idle_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 894,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Draw\\Draw_Right_Run_01_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 970,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Draw\\Draw_Right_Run_02_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 842,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Draw\\Draw_Right_Run_03_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 923,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Draw\\Draw_Up_Idle_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1076,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Draw\\Draw_Up_Run_01_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1019,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Draw\\Draw_Up_Run_02_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1048,
+      "fixedOverlap": 0
+    },
+    {
+      "file": "Assets\\Sprites\\Characters\\Painter_Line64_Layers\\Tint\\Draw\\Draw_Up_Run_03_Tint.png",
+      "size": [
+        64,
+        64
+      ],
+      "tintPixels": 1025,
+      "fixedOverlap": 0
+    }
+  ]
+}

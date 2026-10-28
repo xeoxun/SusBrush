@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63527d1bc3bfb6742b9e01a9d710ee9a, type: 3}
+  m_Name: PenPalette
+  m_EditorClassIdentifier: Assembly-CSharp::SusBrush.Drawing.PenPalette
+  pens:
+  - name: "\uBE68\uAC15"
+    strokePrefab: {fileID: 6538274826216175859, guid: 2f3df0b58b510a84a89e5f24dd34830d, type: 3}
+  - name: "\uC8FC\uD669"
+    strokePrefab: {fileID: 4991789397199863340, guid: 90d8826dadbe46c4bb0a8641433b8af6, type: 3}
+  - name: "\uB178\uB791"
+    strokePrefab: {fileID: 8077824595578263758, guid: fb21bea19c5f8e74ea6bc8bbfaf3be77, type: 3}
+  - name: "\uCD08\uB85D"
+    strokePrefab: {fileID: 8408199089865082601, guid: 1520ff2685678a04dbe0cef5c6e34502, type: 3}
+  - name: "\uD30C\uB791"
+    strokePrefab: {fileID: 4794197523932198795, guid: f811b5384c27b9f43a8ff1eddb2c661e, type: 3}
+  - name: "\uBCF4\uB77C"
+    strokePrefab: {fileID: 6189160991753951989, guid: 2aca8ea9b1f537d48b13c6c67a802f22, type: 3}
+  - name: "\uD551\uD06C"
+    strokePrefab: {fileID: 3431121552871100461, guid: c982fcfd97de48645ae9c7e9f5e95ece, type: 3}
+  - name: "\uAC08\uC0C9"
+    strokePrefab: {fileID: 3036253145668547685, guid: 3dd2bfccd34f31c42b7a29fea4666e53, type: 3}

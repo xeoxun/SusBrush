@@ -1,0 +1,226 @@
+[
+  {
+    "frame": "Carry_Down_Idle_Fixed",
+    "hatPosition": [
+      15,
+      0
+    ]
+  },
+  {
+    "frame": "Carry_Down_Run_01_Fixed",
+    "hatPosition": [
+      16,
+      0
+    ]
+  },
+  {
+    "frame": "Carry_Down_Run_02_Fixed",
+    "hatPosition": [
+      14,
+      0
+    ]
+  },
+  {
+    "frame": "Carry_Down_Run_03_Fixed",
+    "hatPosition": [
+      13,
+      0
+    ]
+  },
+  {
+    "frame": "Carry_Left_Idle_Fixed",
+    "hatPosition": [
+      20,
+      0
+    ]
+  },
+  {
+    "frame": "Carry_Left_Run_01_Fixed",
+    "hatPosition": [
+      16,
+      0
+    ]
+  },
+  {
+    "frame": "Carry_Left_Run_02_Fixed",
+    "hatPosition": [
+      20,
+      0
+    ]
+  },
+  {
+    "frame": "Carry_Left_Run_03_Fixed",
+    "hatPosition": [
+      18,
+      0
+    ]
+  },
+  {
+    "frame": "Carry_Right_Idle_Fixed",
+    "hatPosition": [
+      10,
+      0
+    ]
+  },
+  {
+    "frame": "Carry_Right_Run_01_Fixed",
+    "hatPosition": [
+      12,
+      0
+    ]
+  },
+  {
+    "frame": "Carry_Right_Run_02_Fixed",
+    "hatPosition": [
+      9,
+      0
+    ]
+  },
+  {
+    "frame": "Carry_Right_Run_03_Fixed",
+    "hatPosition": [
+      12,
+      0
+    ]
+  },
+  {
+    "frame": "Carry_Up_Idle_Fixed",
+    "hatPosition": [
+      10,
+      0
+    ]
+  },
+  {
+    "frame": "Carry_Up_Run_01_Fixed",
+    "hatPosition": [
+      8,
+      1
+    ]
+  },
+  {
+    "frame": "Carry_Up_Run_02_Fixed",
+    "hatPosition": [
+      10,
+      0
+    ]
+  },
+  {
+    "frame": "Carry_Up_Run_03_Fixed",
+    "hatPosition": [
+      12,
+      1
+    ]
+  },
+  {
+    "frame": "Draw_Down_Idle_Fixed",
+    "hatPosition": [
+      16,
+      0
+    ]
+  },
+  {
+    "frame": "Draw_Down_Run_01_Fixed",
+    "hatPosition": [
+      18,
+      2
+    ]
+  },
+  {
+    "frame": "Draw_Down_Run_02_Fixed",
+    "hatPosition": [
+      16,
+      0
+    ]
+  },
+  {
+    "frame": "Draw_Down_Run_03_Fixed",
+    "hatPosition": [
+      14,
+      1
+    ]
+  },
+  {
+    "frame": "Draw_Left_Idle_Fixed",
+    "hatPosition": [
+      21,
+      1
+    ]
+  },
+  {
+    "frame": "Draw_Left_Run_01_Fixed",
+    "hatPosition": [
+      19,
+      0
+    ]
+  },
+  {
+    "frame": "Draw_Left_Run_02_Fixed",
+    "hatPosition": [
+      20,
+      0
+    ]
+  },
+  {
+    "frame": "Draw_Left_Run_03_Fixed",
+    "hatPosition": [
+      18,
+      0
+    ]
+  },
+  {
+    "frame": "Draw_Right_Idle_Fixed",
+    "hatPosition": [
+      11,
+      4
+    ]
+  },
+  {
+    "frame": "Draw_Right_Run_01_Fixed",
+    "hatPosition": [
+      12,
+      3
+    ]
+  },
+  {
+    "frame": "Draw_Right_Run_02_Fixed",
+    "hatPosition": [
+      10,
+      4
+    ]
+  },
+  {
+    "frame": "Draw_Right_Run_03_Fixed",
+    "hatPosition": [
+      8,
+      3
+    ]
+  },
+  {
+    "frame": "Draw_Up_Idle_Fixed",
+    "hatPosition": [
+      9,
+      3
+    ]
+  },
+  {
+    "frame": "Draw_Up_Run_01_Fixed",
+    "hatPosition": [
+      9,
+      4
+    ]
+  },
+  {
+    "frame": "Draw_Up_Run_02_Fixed",
+    "hatPosition": [
+      9,
+      4
+    ]
+  },
+  {
+    "frame": "Draw_Up_Run_03_Fixed",
+    "hatPosition": [
+      9,
+      4
+    ]
+  }
+]
